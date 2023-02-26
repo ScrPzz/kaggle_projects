@@ -8,9 +8,15 @@ You'll see:
 - Ensemble training with Optuna optimization;
 
 
+### Results: top 0.5% accuracy.
+
+
 
 Kudos to: 
 - **Sergey Sakharovskiy** for the notebook style css. This is the [github repo](https://github.com/SergeySakharovskiy/jupyter-themes-css)
 - **Alexander Shumilin** for the [ensemble notebook](https://www.kaggle.com/code/alexandershumilin/ps-s3-e7-ensemble-model)
+
+
+
 
 
